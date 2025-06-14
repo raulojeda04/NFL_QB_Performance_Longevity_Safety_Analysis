@@ -12,10 +12,11 @@ This project thoroughly analyzes quarterback passing and longevity data from 197
 
 Insights and recommendations are provided on the following key areas:
 
--   **Performance & Efficiency Trends:** Evaluation of historical passing metrics, focusing on Passer Rating, Completion Percentage, Yards Per Attempt, Touchdown %, and Interception %.
--   **Risk vs. Reward Profile:** An analysis of how passing strategy has evolved, balancing aggressive downfield passing against the risk of turnovers.
--   **Safety Impact:** An assessment of how sack rates have changed over time and across different rule eras.
--   **Longevity Dynamics:** An evaluation of how quarterback age, games played, and career length have trended, with a specific focus on different age cohorts.
+ * **Performance & Efficiency Trends:** Evaluation of historical passing metrics, focusing on Passer Rating, Completion Percentage, Yards Per Attempt, Touchdown %, and Interception %.
+ * **Risk vs. Reward Profile:** An analysis of how passing strategy has evolved, balancing aggressive downfield passing against the risk of turnovers.
+ * **Safety Impact:** An assessment of how sack rates have changed over time and across different rule eras.
+ * **Longevity Dynamics:** An evaluation of how quarterback age, games played, and career length have trended, with a specific focus on different age cohorts.
+   * It is important to state early on that this metric **'Career Longevity'** doesn't take account of the active players that are still in the league and will thus skew the results in the Modern Era
 
  
 An interactive Power BI dashboard for this project can be found [here](https://github.com/raulojeda04/NFL_QB_Performance_Longevity_Safety_Analysis/blob/main/passing_final.pbix)
